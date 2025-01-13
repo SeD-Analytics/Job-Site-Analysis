@@ -1,9 +1,10 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02499a,100:fcaf15&height=120&text=취업%20사이트%20분석&animation=fadeIn&fontColor=000000&fontSize=40" />
 </div>
 
-- 산업경영공학과 관련 직군과 지역 간의 관계 분석 및 구직자 맞춤형 직업 추천 시스템 개발
+<div style="text-align: center; font-size: 18px; font-weight: bold; color: #282d33; margin-top: 20px;">
+  - 산업경영공학과 관련 직군과 지역 간의 관계 분석 및 <br> 구직자 맞춤형 직업 추천 시스템 개발 -
+</div>
 
 ---
 
