@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center; font-size: 18px; font-weight: bold; color: #282d33; margin-top: 20px;">
-  - 산업경영공학과 관련 직군과 지역 간의 관계 분석 및 <br> 구직자 맞춤형 직업 추천 시스템 개발 -
+  - 산업경영공학과 관련 직군과 지역 간의 관계 분석 및 구직자 맞춤형 직업 추천 시스템 개발 -
 </div>
 
 ---
