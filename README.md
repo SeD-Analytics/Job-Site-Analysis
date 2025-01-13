@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02499a,100:fcaf15&height=120&text=취업%20사이트%20분석&animation=fadeIn&fontColor=000000&fontSize=40" />
+</div>
 # 🧐 취업 사이트 분석
 - 산업경영공학과 관련 직군과 지역 간의 관계 분석 및 구직자 맞춤형 직업 추천 시스템 개발
 
@@ -10,10 +14,6 @@
 - 최종적으로 구직자와 기업 간의 매칭 효율성을 개선하여, **구직 성공률 향상 및 지역별 취업 문제 해결에 기여**합니다.
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02499a,100:fcaf15&height=120&text=Project%20Roadmap&animation=fadeIn&fontColor=000000&fontSize=40" />
-</div>
 
 ## 🗂️ 프로젝트 로드맵
 
@@ -67,6 +67,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcaf15,100:02499a&height=120&text=Let’s%20Make%20an%20Impact!&animation=fadeIn&fontColor=000000&fontSize=40" />
-</div>
